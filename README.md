@@ -1,6 +1,7 @@
 ### Hello Everyone 👋, I'm Rapaka
 <h3>A passionate Developer from Indonesia</h3>
 
+---
 
 ### ⚡ About Me
 - 🔭 I’m currently working on **Laravel & Tailwind Projects**  
