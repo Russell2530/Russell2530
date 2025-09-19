@@ -50,7 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Russell2530/Russell2530/output/snake.svg" alt="Snake animation" />
 
 ###
 
