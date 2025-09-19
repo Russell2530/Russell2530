@@ -1,7 +1,7 @@
 ### Hello Everyone 👋, I'm Rapaka
 
 <!-- Banner GIF -->
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="500"/>
 </p>
 
