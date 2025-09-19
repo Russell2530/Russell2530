@@ -1,8 +1,8 @@
 ### Hello Everyone 👋, I'm Rapaka
 <h3>A passionate Developer from Indonesia</h3>
 
-<p>
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="400"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="300"/>
 </p>
 ---
 
