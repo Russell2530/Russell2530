@@ -1,9 +1,5 @@
-<h1 align="center">Hello Everyone 👋, I'm Rapaka</h1>
-<h3 align="center">A passionate Developer from Indonesia</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="400"/>
-</p>
+### Hello Everyone 👋, I'm Rapaka
+<h3>A passionate Developer from Indonesia</h3>
 
 ### ⚡ About Me
 - 🔭 I’m currently working on **Laravel & Tailwind Projects**  
