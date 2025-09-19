@@ -1,5 +1,4 @@
-<h1 align="center">Hello Everyone 👋, I'm Rapaka</h1>
-<h3 align="center">A passionate Developer from Indonesia</h3>
+### Hello Everyone 👋, I'm Rapaka
 
 <!-- Banner GIF -->
 <p align="center">
