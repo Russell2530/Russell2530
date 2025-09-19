@@ -1,9 +1,4 @@
 ### Hello Everyone 👋, I'm Rapaka
-<h3>A passionate Developer from Indonesia</h3>
-<!-- Banner GIF -->
-<p>
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="500"/>
-</p>
 
 ---
 
