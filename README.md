@@ -1,4 +1,4 @@
-### Hello Everyone 👋, I'm Rapaka
+<h1 align="center">Hello Everyone 👋, I'm Rapaka</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
 
 <p align="center">
