@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="left">Play Games with Me</h2>
+<h2 align="left">🎮 Play Games with Me</h2>
 
 ###
 
